@@ -1,5 +1,5 @@
 {
-  "name": "react-fontloader",
+  "name": "rc-fontloader",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anishmprasad/react-fontloader.git"
+    "url": "git+https://github.com/anishmprasad/rc-fontloader.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anishmprasad/react-fontloader/issues"
+    "url": "https://github.com/anishmprasad/rc-fontloader/issues"
   },
-  "homepage": "https://github.com/anishmprasad/react-fontloader#readme"
+  "homepage": "https://github.com/anishmprasad/rc-fontloader#readme"
 }
