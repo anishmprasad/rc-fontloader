@@ -1,17 +1,17 @@
 {
   "name": "rc-fontloader",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "a small util for font loader",
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anishmprasad/rc-fontloader.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Anish M Prasad",
+  "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/anishmprasad/rc-fontloader/issues"
   },
