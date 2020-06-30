@@ -1,6 +1,6 @@
 # rc-fontloader
 
-A Small util for font 
+A small util for the font loader
 
 # Licence
 
